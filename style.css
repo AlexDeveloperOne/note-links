@@ -1,0 +1,114 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+details {
+    margin-bottom: 36px;
+}
+details > summary {
+    font-weight: bolder;
+    font-size: larger;
+    margin-bottom: 1px;
+    display: inline-block;
+}
+details > summary:hover {
+    background-color: rgb(129, 120, 120);
+    color: white;
+}
+
+.container {
+    max-width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.title {
+    font-size: xx-large;
+    margin-bottom: 40px;
+    text-decoration: dashed;
+    text-decoration-line: overline;
+    text-align: center;
+}
+h2 {
+    margin-top: 0;
+}
+.icon-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.icon-list li {
+    margin-bottom: 10px;
+}
+.sub-list {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+.sub-list-title {
+    margin-top: 24px;
+}
+
+.sub-section {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgba(129, 120, 120, 0)
+}
+
+
+code {
+    display: block;
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+a:link {
+    color: blue;
+}
+
+/* a:visited {
+    color: blue; 
+}
+*/
+
+
+
+/* Container */
+#indice_container {}
+
+/* Título do Módulo (h2) dentro do container */
+#indice_container > h2 {}
+
+/* Lista ordenada (ol) dentro do container */
+#indice_container > ol {
+    /* list-style: none; */
+}
+
+/* Itens da lista (li) dentro da lista ordenada */
+#indice_container > ol > li {}
+
+/*////////////// */
+.rxjs-container {
+    /* border: 1px solid #ccc; */
+    /* padding: 10px; */
+    /* border-radius: 5px; */
+    background-color: #f9f9f9;
+}
+
+.rxjs-container h1 {
+    color: #333333;
+}
+
+.rxjs-container h2 {
+    color: #0a0a0a;
+}
+
+.rxjs-container p {
+    color: #000000;
+}
+
+
