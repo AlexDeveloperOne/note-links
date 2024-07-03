@@ -1,174 +1,129 @@
-# Question Words A2 Lesson
+### Aula de Inglês A2: Question Words (Palavras Interrogativas)
 
-May 18, 2024
+#### Objetivo:
 
+- Aprender as principais palavras interrogativas em inglês e como usá-las para formar perguntas.
 
+#### Principais Palavras Interrogativas:
 
-Anonymous
+1. **What** (O quê / Qual)
+2. **Who** (Quem)
+3. **Where** (Onde)
+4. **When** (Quando)
+5. **Why** (Por quê)
+6. **How** (Como)
+7. **Which** (Qual / Quais)
+8. **Whose** (De quem)
 
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Question words , robusta e com exemplos;
+### Explicações e Exemplos:
 
-ChatGPT
+#### 1. **What** (O quê / Qual)
 
-ChatGPT
+- Usada para perguntar sobre coisas ou informações gerais.
 
-Claro! Vamos criar uma aula completa de inglês nível A2 sobre question words. Aqui está um esboço para te guiar:
+**Exemplos:**
 
-**Aula de Inglês - Nível A2: Question Words**
+- What is your name? (Qual é o seu nome?)
+- What are you doing? (O que você está fazendo?)
 
-**Objetivo da Aula:**
+#### 2. **Who** (Quem)
 
-- Entender e utilizar as question words em inglês para fazer perguntas de forma eficaz.
+- Usada para perguntar sobre pessoas.
 
-**1. Introdução:**
+**Exemplos:**
 
-- Explique que as question words são palavras usadas para fazer perguntas em inglês.
-- Elas são essenciais para obter informações específicas em uma conversa.
+- Who is that man? (Quem é aquele homem?)
+- Who are you talking to? (Com quem você está falando?)
 
-**2. As Question Words Principais:**
+#### 3. **Where** (Onde)
 
-- Who (Quem): Usado para perguntar sobre pessoas. Exemplo: Who is your best friend? (Quem é seu melhor amigo?)
-- What (O que): Usado para perguntar sobre coisas ou ações. Exemplo: What is your favorite movie? (Qual é o seu filme favorito?)
-- Where (Onde): Usado para perguntar sobre lugares. Exemplo: Where is the nearest supermarket? (Onde fica o supermercado mais próximo?)
-- When (Quando): Usado para perguntar sobre tempo. Exemplo: When is your birthday? (Quando é o seu aniversário?)
-- Why (Por que): Usado para perguntar sobre razões ou motivos. Exemplo: Why are you late? (Por que você está atrasado?)
-- How (Como): Usado para perguntar sobre maneiras ou processos. Exemplo: How do you cook pasta? (Como você cozinha macarrão?)
+- Usada para perguntar sobre lugares.
 
-**3. Exercícios:**
+**Exemplos:**
 
-- Forneça uma série de frases para os alunos transformarem em perguntas usando as question words apropriadas. Exemplo: You like ice cream. (What do you like?) My sister is at home. (Where is your sister?)
+- Where do you live? (Onde você mora?)
+- Where is the nearest hospital? (Onde fica o hospital mais próximo?)
 
-**4. Prática em Pares:**
+#### 4. **When** (Quando)
 
-- Divida a turma em duplas e peça que pratiquem fazendo perguntas uns aos outros usando question words.
-- Circule pela sala para ajudar e corrigir, se necessário.
+- Usada para perguntar sobre tempo.
 
-**5. Diálogo:**
+**Exemplos:**
 
-- Apresente um diálogo curto envolvendo as question words. Peça aos alunos para praticarem o diálogo em pares. Exemplo: A: Where do you want to go for dinner? B: I don't know. What do you suggest? A: How about that new Italian restaurant downtown? B: When do they close? A: They close at 10 pm.
+- When is your birthday? (Quando é o seu aniversário?)
+- When does the movie start? (Quando o filme começa?)
 
-**6. Recapitulação:**
+#### 5. **Why** (Por quê)
 
-- Revise as question words e sua aplicação com a turma.
-- Peça aos alunos que criem algumas perguntas usando as question words e compartilhem com a classe.
+- Usada para perguntar sobre razões ou causas.
 
-**7. Tarefa:**
+**Exemplos:**
 
-- Atribua uma tarefa que envolva fazer perguntas usando as question words em situações cotidianas, como entrevistar um colega sobre seus hobbies ou fazer perguntas a um membro da família sobre seus planos para o fim de semana.
+- Why are you sad? (Por que você está triste?)
+- Why did you call me? (Por que você me ligou?)
 
-**8. Encerramento:**
+#### 6. **How** (Como)
 
-- Recapitule os pontos principais da aula e encoraje os alunos a praticarem as question words sempre que possível.
+- Usada para perguntar sobre maneira ou método.
 
-Espero que isso te ajude a criar uma aula completa e robusta sobre question words em inglês! Se precisar de mais alguma coisa, estou aqui para ajudar.
+**Exemplos:**
 
+- How are you? (Como você está?)
+- How do you make this cake? (Como você faz este bolo?)
 
+#### 7. **Which** (Qual / Quais)
 
-Anonymous
+- Usada para perguntar sobre escolhas entre um número limitado de opções.
 
-Trago uma série de frases com WH-question, com pelo menos três cada uma.
+**Exemplos:**
 
-ChatGPT
+- Which color do you prefer? (Qual cor você prefere?)
+- Which book is yours? (Qual livro é o seu?)
 
-ChatGPT
+#### 8. **Whose** (De quem)
 
-Claro! Aqui estão algumas frases com WH-questions, três para cada question word:
+- Usada para perguntar sobre posse.
 
-**Who (Quem):**
+**Exemplos:**
 
-1. Who is your favorite teacher?
-2. Who are you going to invite to your birthday party?
-3. Who wrote this book?
+- Whose bag is this? (De quem é esta bolsa?)
+- Whose car is parked outside? (De quem é o carro estacionado lá fora?)
 
-**What (O que):**
+### Formação de Perguntas:
 
-1. What time does the movie start?
-2. What are you doing this weekend?
-3. What kind of music do you like?
+A estrutura básica de uma pergunta em inglês geralmente segue a ordem:
 
-**Where (Onde):**
+**Question word + Auxiliary verb + Subject + Main verb**
 
-1. Where do you live?
-2. Where did you buy that shirt?
-3. Where is the nearest bus stop?
+- What is your favorite color? (Qual é a sua cor favorita?)
+- Who are they talking to? (Com quem eles estão falando?)
 
-**When (Quando):**
-
-1. When is your next holiday?
-2. When does the store open?
-3. When did you learn to drive?
-
-**Why (Por que):**
-
-1. Why are you learning English?
-2. Why did you choose this restaurant?
-3. Why is she crying?
-
-**How (Como):**
-
-1. How do you make a cake?
-2. How was your day?
-3. How often do you exercise?
-
-**Which (Qual/Quais):**
-
-1. Which color do you prefer, blue or green?
-2. Which movie do you want to watch?
-3. Which book is your favorite?
-
-**Whose (De quem):**
-
-1. Whose bag is this?
-2. Whose turn is it to wash the dishes?
-3. Whose phone is ringing?
-
-**Whom (Quem - formal):**
-
-1. Whom did you meet at the conference?
-2. Whom should I contact for more information?
-3. Whom are you going to call?
-
-Essas frases devem ajudar seus alunos a praticar o uso das WH-questions em diferentes contextos.
-
-
-
-Anonymous
-
-crie diálogos 10 curtos para melhor exemplificar essa aula.
-
-ChatGPT
-
-ChatGPT
-
-Claro! Aqui estão 10 diálogos curtos usando WH-questions para exemplificar a aula:
-
-**Diálogo 1:** A: Who is your favorite singer? B: My favorite singer is Adele.
-
-**Diálogo 2:** A: What are you doing this weekend? B: I am going to the beach with my friends.
-
-**Diálogo 3:** A: Where did you go on vacation last year? B: I went to Italy. It was amazing!
-
-**Diálogo 4:** A: When is the next bus coming? B: The next bus should arrive in 10 minutes.
-
-**Diálogo 5:** A: Why are you studying English? B: Because I want to travel and communicate better.
-
-**Diálogo 6:** A: How do you make your coffee in the morning? B: I use a French press and add a little milk.
-
-**Diálogo 7:** A: Which movie do you want to watch tonight? B: I’d like to watch the new Marvel movie.
-
-**Diálogo 8:** A: Whose keys are these on the table? B: They are mine. Thank you for finding them!
-
-**Diálogo 9:** A: Whom did you invite to your wedding? B: I invited all my close friends and family.
-
-**Diálogo 10:** A: How often do you go to the gym? B: I go to the gym three times a week.
-
-Esses diálogos devem ajudar os alunos a ver como as WH-questions são usadas em conversas cotidianas.
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
-
-
+### Exercícios Práticos:
+
+1. Forme perguntas para as seguintes respostas:
+   
+   - My name is John. 
+     - (What is your name?)
+   - I live in Brazil.
+     - (Where do you live?)
+
+2. Complete as perguntas com a palavra interrogativa correta:
+   
+   - ___ is your best friend? (Who)
+   - ___ are you going? (Where)
+   - ___ did you start learning English? (When)
+
+3. Traduza as perguntas para o inglês:
+   
+   - Como você está?
+     - (How are you?)
+   - De quem é este livro?
+     - (Whose book is this?)
+
+### Dicas Adicionais:
+
+- Pratique formar perguntas em inglês no seu dia a dia.
+- Tente responder às suas próprias perguntas para reforçar o aprendizado.
+- Utilize flashcards com as palavras interrogativas para memorização.
+
+Essa aula cobre as principais palavras interrogativas e como usá-las. Se precisar de mais detalhes ou exemplos, estou aqui para ajudar!

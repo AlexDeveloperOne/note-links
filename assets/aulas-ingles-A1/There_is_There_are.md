@@ -1,10 +1,6 @@
-
-
 # There is/There are Explanation
 
 May 18, 2024
-
-
 
 Anonymous
 
@@ -41,55 +37,55 @@ Entender e usar corretamente "There is" e "There are" para descrever a existênc
 #### 2.1 Afirmativas
 
 - Singular: 
-
+  
   There is
-
+  
    \+ substantivo singular.
-
+  
   - Exemplo: There is a cat in the garden.
 
 - Plural: 
-
+  
   There are
-
+  
    \+ substantivo plural.
-
+  
   - Exemplo: There are two cats in the garden.
 
 #### 2.2 Negativas
 
 - Singular: 
-
+  
   There is not
-
+  
    (isn't) + substantivo singular.
-
+  
   - Exemplo: There isn't a cat in the garden.
 
 - Plural: 
-
+  
   There are not
-
+  
    (aren't) + substantivo plural.
-
+  
   - Exemplo: There aren't any cats in the garden.
 
 #### 2.3 Interrogativas
 
 - Singular: 
-
+  
   Is there
-
+  
    \+ substantivo singular?
-
+  
   - Exemplo: Is there a cat in the garden?
 
 - Plural: 
-
+  
   Are there
-
+  
    \+ substantivo plural?
-
+  
   - Exemplo: Are there any cats in the garden?
 
 ### Parte 3: Exemplos Práticos
@@ -157,8 +153,6 @@ Peça aos alunos para escreverem cinco frases usando "There is" e cinco frases u
 
 Espero que essa aula seja útil e ajude a entender melhor o uso de "There is" e "There are"! Se precisar de mais informações ou tiver alguma dúvida, estou à disposição.
 
-
-
 Anonymous
 
 crie diálogos 10 curtos para melhor exemplificar essa aula.
@@ -185,9 +179,3 @@ Espero que esses diálogos ajudem a visualizar melhor como usar "There is" e "Th
 [Sign up to chat](https://chatgpt.com/)
 
 Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
-
-
-

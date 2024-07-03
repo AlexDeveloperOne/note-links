@@ -1,131 +1,142 @@
+Claro! Vamos começar com uma aula A2 sobre o "Present Continuous" em inglês. Esta aula incluirá a explicação da estrutura, uso, e exemplos.
 
+### Aula de Inglês A2: Present Continuous
 
+#### 1. Introdução ao Present Continuous
 
+**O que é o Present Continuous?**
+O Present Continuous é um tempo verbal usado para descrever ações que estão acontecendo no momento da fala ou ações futuras planejadas.
 
-# Present Continuous Lesson
+**Estrutura do Present Continuous:**
 
-May 18, 2024
-
-
-
-Anonymous
-
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Present continuous , robusta e com exemplos;
-
-ChatGPT
-
-ChatGPT
-
-Claro, vou preparar uma aula completa sobre o Present Continuous para você, com exemplos e exercícios para consolidar o conhecimento. Vamos lá:
-
-------
-
-**Aula de Inglês: Present Continuous (Nível A2)**
-
-**Objetivo da Aula:**
-
-- Entender e utilizar o Present Continuous para descrever ações em progresso no presente.
-
-**1. Introdução:** O Present Continuous, também conhecido como Presente Contínuo em português, é um tempo verbal usado para expressar ações que estão acontecendo no momento da fala, ou para descrever ações temporárias que estão ocorrendo em torno do momento presente.
-
-**2. Estrutura:** O Present Continuous é formado pelo verbo "to be" (am, is, are) conjugado no presente, seguido do verbo principal no gerúndio (-ing).
-
-- Forma afirmativa:
-  - I am (Eu estou)
-  - He/She/It is (Ele/Ela está)
-  - We/You/They are (Nós/Você/Eles estão)
+- **Sujeito + Verbo to be (am/is/are) + Verbo com -ing**
 
 Exemplos:
 
-- I am studying English. (Eu estou estudando inglês.)
-- She is watching TV. (Ela está assistindo TV.)
-- They are playing football. (Eles estão jogando futebol.)
+- I am studying.
+- She is eating.
+- They are playing.
 
-**3. Uso:** O Present Continuous é usado para:
+#### 2. Como Formar o Present Continuous
 
-- Descrever ações que estão acontecendo no momento da fala.
-- Descrever ações temporárias que estão ocorrendo em torno do momento presente.
-- Expressar planos futuros já confirmados.
+**Afirmações:**
 
-**4. Exemplos de Uso:**
+- I am (I'm) + verbo com -ing
+- You/We/They are (You're/We're/They're) + verbo com -ing
+- He/She/It is (He's/She's/It's) + verbo com -ing
 
-- Agora: "I am reading a book." (Eu estou lendo um livro.)
-- Ações temporárias: "She is staying with her parents this week." (Ela está ficando com os pais esta semana.)
-- Planos futuros: "We are meeting John at the airport tomorrow." (Nós vamos encontrar o John no aeroporto amanhã.)
+Exemplos:
 
-**5. Exercícios:**
+- I am reading a book.
+- She is cooking dinner.
+- They are watching TV.
 
-**A. Complete as frases com a forma correta do Present Continuous:**
+**Negativas:**
 
-1. They __________ (watch) a movie right now.
-2. I __________ (study) for my exams this week.
-3. He __________ (play) football every Saturday.
-4. We __________ (have) dinner at 7 PM tonight.
-5. She __________ (work) on a new project this month.
+- I am not (I'm not) + verbo com -ing
+- You/We/They are not (aren't) + verbo com -ing
+- He/She/It is not (isn't) + verbo com -ing
 
-**B. Escreva frases sobre o que está acontecendo no momento na sua vida usando o Present Continuous.**
+Exemplos:
 
-------
+- I am not reading a book.
+- She is not (isn't) cooking dinner.
+- They are not (aren't) watching TV.
 
-Espero que esta aula ajude você a compreender e utilizar o Present Continuous de forma mais confiante. Se tiver alguma dúvida ou precisar de mais exemplos, estou à disposição para ajudar!
+**Perguntas:**
 
+- Am I + verbo com -ing?
+- Are you/we/they + verbo com -ing?
+- Is he/she/it + verbo com -ing?
 
+Exemplos:
 
-Anonymous
+- Am I reading a book?
+- Is she cooking dinner?
+- Are they watching TV?
 
-crie diálogos 8 curtos para melhor exemplificar essa aula.
+#### 3. Usos do Present Continuous
 
-ChatGPT
+**1. Ações que estão acontecendo agora:**
 
-ChatGPT
+- I'm eating lunch right now.
+- He is talking on the phone.
 
-Claro! Aqui estão oito diálogos curtos usando o Present Continuous para ilustrar melhor como esse tempo verbal é utilizado no dia a dia:
+**2. Ações temporárias:**
 
-**Diálogo 1:**
+- She is staying with her friend for a week.
+- They are working on a new project.
 
-- **John:** Hi, Mary. What are you doing?
-- **Mary:** Hi, John. I am cooking dinner.
+**3. Ações futuras planejadas:**
 
-**Diálogo 2:**
+- We are meeting them tomorrow.
+- I am flying to New York next month.
 
-- **Teacher:** Are you listening to the instructions?
-- **Student:** Yes, I am listening carefully.
+**4. Mudanças e desenvolvimentos:**
 
-**Diálogo 3:**
+- The weather is getting colder.
+- My English is improving.
 
-- **Anna:** Where is Tom?
-- **Ben:** He is playing soccer in the park.
+#### 4. Exemplos Adicionais
 
-**Diálogo 4:**
+- I am learning English.
+- You are not (aren't) listening to me.
+- Are they coming to the party?
+- He is always complaining about the noise.
+- The kids are playing in the park.
 
-- **Sarah:** What are you reading?
-- **Jake:** I am reading a book about history.
+#### 5. Exercícios Práticos
 
-**Diálogo 5:**
+**Complete as frases usando o Present Continuous:**
 
-- **Mom:** Why are you making so much noise?
-- **Kids:** We are practicing our dance routine.
+1. She (to read) a book right now.  
+2. They (to play) soccer in the garden.  
+3. I (to watch) a movie.  
+4. We (to study) for the test.  
+5. He (to cook) dinner.
 
-**Diálogo 6:**
+**Respostas:**
 
-- **Boss:** Are you working on the new project?
-- **Employee:** Yes, I am working on it right now.
+1. She is reading a book right now.
+2. They are playing soccer in the garden.
+3. I am watching a movie.
+4. We are studying for the test.
+5. He is cooking dinner.
 
-**Diálogo 7:**
+**Forme perguntas no Present Continuous:**
 
-- **Lisa:** Is it raining outside?
-- **Mike:** Yes, it is raining heavily.
+1. (she/to work)  
+2. (you/to study)  
+3. (they/to travel)  
+4. (he/to eat)  
+5. (we/to leave)
 
-**Diálogo 8:**
+**Respostas:**
 
-- **Friend 1:** Are you coming to the party tonight?
-- **Friend 2:** No, I am staying home and watching a movie.
+1. Is she working?
+2. Are you studying?
+3. Are they traveling?
+4. Is he eating?
+5. Are we leaving?
 
-------
+**Forme frases negativas no Present Continuous:**
 
-Esses diálogos mostram como o Present Continuous é usado para descrever ações que estão ocorrendo no momento da fala ou em um futuro próximo. Use esses exemplos para praticar e melhorar seu entendimento desse tempo verbal. Se precisar de mais exemplos ou tiver dúvidas, sinta-se à vontade para perguntar!
+1. I (not/to sleep)  
+2. He (not/to run)  
+3. They (not/to dance)  
+4. She (not/to write)  
+5. We (not/to sing)
 
-[Sign up to chat](https://chatgpt.com/)
+**Respostas:**
 
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
+1. I am not sleeping.
+2. He is not running.
+3. They are not dancing.
+4. She is not writing.
+5. We are not singing.
 
+### Conclusão
+
+O Present Continuous é uma ferramenta essencial para descrever ações em progresso e planos futuros. Pratique formando frases, perguntas e negativas para se familiarizar com este tempo verbal. Boa sorte e continue praticando!
+
+Se precisar de mais explicações ou exercícios, estou aqui para ajudar.

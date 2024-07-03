@@ -1,222 +1,122 @@
-# Possessive Adj. & Pron.
+### Aula de Inglês A1: Possessive Adjectives and Pronouns
 
-May 18, 2024
+#### Objetivos da Aula:
 
+- Compreender o uso de adjetivos possessivos e pronomes possessivos em inglês.
+- Ser capaz de identificar e utilizar corretamente adjetivos possessivos e pronomes possessivos em frases simples.
 
+#### Estrutura da Aula:
 
-Anonymous
+1. **Introdução aos Adjetivos Possessivos**
+2. **Exemplos de Adjetivos Possessivos**
+3. **Introdução aos Pronomes Possessivos**
+4. **Exemplos de Pronomes Possessivos**
+5. **Exercícios Práticos**
+6. **Resumo e Conclusão**
 
-sou aluno e desejo que tu me crie uma aula completa de Possessive adjectives and pronouns, robusta e com exemplos;
+---
 
-ChatGPT
+### 1. Introdução aos Adjetivos Possessivos
 
-ChatGPT
+Os adjetivos possessivos são usados para mostrar que algo pertence a alguém. Eles vêm antes de um substantivo para indicar a quem pertence esse substantivo.
 
-### Aula Completa sobre Adjetivos e Pronomes Possessivos
+| Pronome Pessoal | Adjetivo Possessivo | Exemplo                                                    |
+| --------------- | ------------------- | ---------------------------------------------------------- |
+| I               | my                  | This is my book. (Este é o meu livro.)                     |
+| You             | your                | Is this your pen? (Esta é a sua caneta?)                   |
+| He              | his                 | His car is new. (O carro dele é novo.)                     |
+| She             | her                 | Her house is big. (A casa dela é grande.)                  |
+| It              | its                 | The cat licked its paw. (O gato lambeu sua pata.)          |
+| We              | our                 | Our team won the game. (Nosso time ganhou o jogo.)         |
+| You (plural)    | your                | Is this your classroom? (Esta é a sala de aula de vocês?)  |
+| They            | their               | Their children are polite. (Os filhos deles são educados.) |
 
-**Objetivo da Aula:** Ao final desta aula, os alunos serão capazes de identificar e usar corretamente os adjetivos e pronomes possessivos em inglês.
+---
 
-------
+### 2. Exemplos de Adjetivos Possessivos
 
-#### Parte 1: Introdução aos Adjetivos Possessivos
+- **My**: My name is John. (Meu nome é John.)
+- **Your**: Your dog is very friendly. (Seu cachorro é muito amigável.)
+- **His**: His mother is a doctor. (A mãe dele é médica.)
+- **Her**: Her bag is on the table. (A bolsa dela está na mesa.)
+- **Its**: The company changed its policy. (A empresa mudou sua política.)
+- **Our**: Our family is large. (Nossa família é grande.)
+- **Your (plural)**: Your house is beautiful. (A casa de vocês é linda.)
+- **Their**: Their project was successful. (O projeto deles foi bem-sucedido.)
 
-**Definição:** Adjetivos possessivos são palavras usadas para mostrar posse ou propriedade. Eles sempre vêm antes de um substantivo.
+---
 
-**Lista de Adjetivos Possessivos:**
+### 3. Introdução aos Pronomes Possessivos
 
-- My (meu, minha)
-- Your (teu, tua, seu, sua)
-- His (dele)
-- Her (dela)
-- Its (dele/dela - para objetos ou animais)
-- Our (nosso, nossa)
-- Your (vosso, vossa, seu, sua - no plural)
-- Their (deles, delas)
+Os pronomes possessivos substituem os substantivos para evitar repetições. Eles são usados para indicar posse, assim como os adjetivos possessivos, mas sem precisar mencionar o substantivo novamente.
 
-**Exemplos:**
+| Pronome Pessoal | Pronome Possessivo | Exemplo                                              |
+| --------------- | ------------------ | ---------------------------------------------------- |
+| I               | mine               | This book is mine. (Este livro é meu.)               |
+| You             | yours              | That pen is yours. (Aquela caneta é sua.)            |
+| He              | his                | The car is his. (O carro é dele.)                    |
+| She             | hers               | The house is hers. (A casa é dela.)                  |
+| It              | its                | (rarely used)                                        |
+| We              | ours               | The victory was ours. (A vitória foi nossa.)         |
+| You (plural)    | yours              | The classroom is yours. (A sala de aula é de vocês.) |
+| They            | theirs             | The toys are theirs. (Os brinquedos são deles.)      |
 
-1. **My** book is on the table. (Meu livro está na mesa.)
-2. Is this **your** pen? (Esta é a tua caneta?)
-3. **His** car is very fast. (O carro dele é muito rápido.)
-4. She loves **her** dog. (Ela ama o cachorro dela.)
-5. The cat is licking **its** paw. (O gato está lambendo a pata dele.)
-6. This is **our** house. (Esta é a nossa casa.)
-7. Are these **your** keys? (Estas são as vossas chaves?)
-8. **Their** friends are coming over. (Os amigos deles estão vindo.)
+---
 
-#### Exercício 1:
+### 4. Exemplos de Pronomes Possessivos
 
-Complete as frases com o adjetivo possessivo correto.
+- **Mine**: This umbrella is mine. (Este guarda-chuva é meu.)
+- **Yours**: Is this bag yours? (Esta bolsa é sua?)
+- **His**: That bike is his. (Aquela bicicleta é dele.)
+- **Hers**: These keys are hers. (Estas chaves são dela.)
+- **Ours**: The house at the end of the street is ours. (A casa no fim da rua é nossa.)
+- **Yours (plural)**: These books are yours. (Estes livros são de vocês.)
+- **Theirs**: The idea was theirs. (A ideia foi deles.)
 
-1. This is ____ (eu) backpack.
-2. ____ (ele) sister is a doctor.
-3. We love ____ (nós) new house.
-4. ____ (ela) computer is very fast.
-5. The dog wagged ____ (ele) tail.
+---
 
-------
+### 5. Exercícios Práticos
 
-#### Parte 2: Introdução aos Pronomes Possessivos
+#### Exercício 1: Complete as frases com o adjetivo possessivo correto.
 
-**Definição:** Pronomes possessivos são usados para substituir um substantivo que já foi mencionado ou é de conhecimento comum, indicando posse.
+1. ____ (I) car is red.
+2. ____ (She) brother is tall.
+3. ____ (We) parents are teachers.
+4. ____ (You) dog is cute.
+5. ____ (They) house is big.
 
-**Lista de Pronomes Possessivos:**
+#### Exercício 2: Complete as frases com o pronome possessivo correto.
 
-- Mine (meu, minha)
-- Yours (teu, tua, seu, sua)
-- His (dele)
-- Hers (dela)
-- Its (dele/dela - raro uso, para objetos ou animais)
-- Ours (nosso, nossa)
-- Yours (vosso, vossa, seu, sua - no plural)
-- Theirs (deles, delas)
+1. This book is ____. (I)
+2. Is this pen ____? (you)
+3. The car is ____. (he)
+4. The house is ____. (she)
+5. These toys are ____. (they)
 
-**Exemplos:**
-
-1. This book is **mine**. (Este livro é meu.)
-2. Is this pen **yours**? (Esta caneta é tua?)
-3. The car is **his**. (O carro é dele.)
-4. This dog is **hers**. (Este cachorro é dela.)
-5. This house is **ours**. (Esta casa é nossa.)
-6. Are these keys **yours**? (Estas chaves são vossas?)
-7. These friends are **theirs**. (Esses amigos são deles.)
-
-#### Exercício 2:
-
-Substitua as palavras sublinhadas pelos pronomes possessivos corretos.
-
-1. This is my book. (This book is ____)
-2. Is this your pen? (Is this pen ____)
-3. The car belongs to him. (The car is ____)
-4. This dog belongs to her. (This dog is ____)
-5. This house belongs to us. (This house is ____)
-6. Are these keys yours? (Are these keys ____)
-
-------
-
-#### Parte 3: Diferenças entre Adjetivos e Pronomes Possessivos
-
-**Adjetivos Possessivos**:
-
-- Sempre vêm antes de um substantivo.
-- Exemplos: my, your, his, her, its, our, their.
-
-**Pronomes Possessivos**:
-
-- Substituem um substantivo.
-- Exemplos: mine, yours, his, hers, its, ours, theirs.
-
-**Comparação com Exemplos:**
-
-- This is **my** book. (adjetivo possessivo)
-- This book is **mine**. (pronome possessivo)
-- Is this **your** pen? (adjetivo possessivo)
-- Is this pen **yours**? (pronome possessivo)
-
-#### Exercício 3:
-
-Escolha a opção correta (adjetivo possessivo ou pronome possessivo) para completar as frases.
-
-1. Is this ____ (your/yours) hat?
-2. This laptop is ____. (my/mine)
-3. ____ (Their/Theirs) house is big.
-4. The cat is licking ____ (its/it's) paw.
-5. This is ____ (our/ours) classroom.
-
-------
-
-#### Parte 4: Prática com Frases Completas
-
-1. **My** friend and **his** sister are coming to visit. The house next to ours is **theirs**.
-2. I forgot **my** keys at home. Are these **yours**?
-3. The dog is wagging **its** tail because **its** happy. (Lembre-se de que “its” sem apóstrofo é possessivo; com apóstrofo “it’s” significa “it is”).
-4. We painted **our** house last week. Now, the new look of the house is **ours**.
-5. She finished **her** homework quickly, so the rest of the evening was **hers** to relax.
-
-------
-
-#### Atividade de Conclusão:
-
-Peça aos alunos que escrevam uma breve descrição de sua própria família ou casa, usando tanto adjetivos possessivos quanto pronomes possessivos. Em seguida, peça a eles que troquem as descrições com um colega para revisar e corrigir.
-
-------
-
-#### Respostas dos Exercícios:
+#### Respostas:
 
 **Exercício 1:**
 
-1. my
-2. His
-3. our
-4. Her
-5. its
+1. My car is red.
+2. Her brother is tall.
+3. Our parents are teachers.
+4. Your dog is cute.
+5. Their house is big.
 
 **Exercício 2:**
 
-1. mine
-2. yours
-3. his
-4. hers
-5. ours
-6. yours
+1. This book is mine.
+2. Is this pen yours?
+3. The car is his.
+4. The house is hers.
+5. These toys are theirs.
 
-**Exercício 3:**
+---
 
-1. your
-2. mine
-3. Their
-4. its
-5. our
+### 6. Resumo e Conclusão
 
-------
+Nesta aula, aprendemos sobre adjetivos possessivos e pronomes possessivos em inglês. Os adjetivos possessivos (my, your, his, her, its, our, their) são usados antes dos substantivos para mostrar posse. Já os pronomes possessivos (mine, yours, his, hers, ours, theirs) substituem os substantivos para evitar repetições. Pratique utilizando esses termos em frases para reforçar o aprendizado!
 
-Essa aula deve ajudar os alunos a compreender e praticar o uso de adjetivos e pronomes possessivos de forma eficaz. Boa sorte na sua aula!
+---
 
-
-
-Anonymous
-
-crie diálogos 10 curtos para melhor exemplificar essa aula.
-
-ChatGPT
-
-ChatGPT
-
-Claro, aqui estão 10 diálogos curtos para ilustrar o uso de adjetivos e pronomes possessivos:
-
-**Diálogo 1:** Alice: Whose bag is this? Bob: It's **my** bag. I left it here yesterday.
-
-**Diálogo 2:** Tom: Is this **your** cat? Emma: No, it's **her** cat. But she's staying at my place for a while.
-
-**Diálogo 3:** Mark: Can I borrow your laptop? Sarah: Sorry, I need **my** laptop for the presentation.
-
-**Diálogo 4:** David: Where are **your** keys? Laura: I think I left them in **my** jacket pocket.
-
-**Diálogo 5:** James: Whose car is parked outside? Emily: It's **our** neighbor's car. Ours is in the garage.
-
-**Diálogo 6:** Sophia: Do you like **my** new dress? Liam: Yes, it's lovely. Where did you get **it**?
-
-**Diálogo 7:** Jack: Are these **their** shoes? Olivia: No, those are **ours**. Theirs are by the door.
-
-**Diálogo 8:** Mia: This book is interesting. Is it **yours**? Nathan: No, it's not **mine**. Maybe it's **his**.
-
-**Diálogo 9:** Ryan: I can't find **my** phone. Ella: Is it under **your** bed? I found **mine** there once.
-
-**Diálogo 10:** Alex: Is this **your** cat? Sophie: No, it's not **mine**. It must be **his**.
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
-
-
-
-
-
-
-
-
-
-
+Espero que esta aula tenha sido útil! Se tiver alguma dúvida ou precisar de mais exemplos, estarei à disposição.

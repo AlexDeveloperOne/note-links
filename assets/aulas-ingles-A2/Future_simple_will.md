@@ -1,173 +1,122 @@
+Claro! Vamos começar a aula sobre o "Future Simple" com "will".
 
+## Aula de Inglês A2: Future Simple com "will"
 
+### Objetivos da Aula
 
+- Entender o uso do "will" para formar o futuro simples.
+- Aprender a estrutura das frases afirmativas, negativas e interrogativas.
+- Praticar com exemplos e exercícios.
 
-# Future Simple with "Will"
+### Estrutura
 
-May 18, 2024
+1. **Uso do "will"**
+2. **Estrutura das Frases**
+   - Afirmativas
+   - Negativas
+   - Interrogativas
+3. **Contrações**
+4. **Exemplos**
+5. **Exercícios Práticos**
 
+### 1. Uso do "will"
 
+O "will" é usado para:
 
-Anonymous
+- Falar sobre decisões espontâneas.
+- Fazer previsões ou suposições sobre o futuro.
+- Oferecer ajuda ou fazer promessas.
 
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Future simple: will , robusta e com exemplos;
+### 2. Estrutura das Frases
 
-ChatGPT
+#### Frases Afirmativas
 
-ChatGPT
+A estrutura para frases afirmativas é:
 
-Claro! Vamos criar uma aula completa sobre o futuro simples com o uso de "will" no nível A2.
-
-------
-
-**Aula de Inglês: Futuro Simples com "Will"**
-
-**Objetivo:** Nesta aula, você aprenderá sobre o futuro simples em inglês, usando o modal "will". Iremos explorar como formar e usar esse tempo verbal em diferentes situações.
-
-**1. O que é o Futuro Simples com "Will":**
-
-O futuro simples com "will" é usado para expressar ações que ocorrerão no futuro e para fazer previsões sobre o que achamos que vai acontecer. É um tempo verbal bastante utilizado em inglês.
-
-**2. Formação do Futuro Simples com "Will":**
-
-A formação do futuro simples com "will" é muito simples. Basta adicionar "will" antes do verbo principal na sua forma base (infinitivo sem "to").
+\[ \text{Sujeito} + \text{will} + \text{verbo (forma base)} \]
 
 Exemplos:
 
 - I will go to the party. (Eu irei à festa.)
-- She will study for the exam. (Ela estudará para a prova.)
-- They will travel to Europe next summer. (Eles viajarão para a Europa no próximo verão.)
+- She will call you tomorrow. (Ela te ligará amanhã.)
 
-**3. Uso do Futuro Simples com "Will":**
+#### Frases Negativas
 
-- **Para fazer previsões:** Usamos "will" quando fazemos previsões sobre o futuro, especialmente quando não temos certeza absoluta.
-  - Exemplo: It will rain tomorrow. (Vai chover amanhã.)
-- **Decisões instantâneas:** Podemos usar "will" para tomar decisões instantâneas no momento da fala.
-  - Exemplo: Oh no, I forgot my umbrella. I will borrow yours. (Ah não, esqueci meu guarda-chuva. Vou pegar emprestado o seu.)
-- **Promessas e ofertas:** Usamos "will" para fazer promessas ou oferecer ajuda de forma amigável.
-  - Exemplo: Don't worry, I will help you with your homework. (Não se preocupe, eu vou te ajudar com a sua lição de casa.)
+A estrutura para frases negativas é:
 
-**4. Exercícios:**
+\[ \text{Sujeito} + \text{will not} (won't) + \text{verbo (forma base)} \]
 
-a) Complete as frases com a forma correta do verbo no futuro simples com "will":
+Exemplos:
 
-1. I ____________ (visit) my grandparents next weekend.
-2. She ____________ (buy) a new car next month.
-3. They ____________ (not come) to the party tonight.
+- I will not (won't) go to the party. (Eu não irei à festa.)
+- She will not (won't) call you tomorrow. (Ela não te ligará amanhã.)
 
-b) Escreva três frases sobre o que você fará no futuro usando o futuro simples com "will".
+#### Frases Interrogativas
 
-------
+A estrutura para frases interrogativas é:
 
-**Respostas dos Exercícios:**
+\[ \text{Will} + \text{sujeito} + \text{verbo (forma base)} \]
 
-a)
+Exemplos:
 
-1. will visit
-2. will buy
-3. will not come
+- Will you go to the party? (Você irá à festa?)
+- Will she call you tomorrow? (Ela te ligará amanhã?)
 
-b) (Exemplos podem variar)
+### 3. Contrações
 
-1. I will study English every day to improve my skills.
-2. We will visit France next year for our vacation.
-3. She will start a new job in September.
+- Will not = Won't
+- I will = I'll
+- You will = You'll
+- He will = He'll
+- She will = She'll
+- It will = It'll
+- We will = We'll
+- They will = They'll
 
-------
+### 4. Exemplos
 
-Espero que esta aula seja útil para você entender e praticar o futuro simples com "will" em inglês no nível A2. Se tiver alguma dúvida, não hesite em perguntar!
+#### Decisões Espontâneas
 
+- A: "I'm thirsty." (Estou com sede.)
+- B: "I will get you some water." (Eu vou te buscar um pouco de água.)
 
+#### Previsões
 
-Anonymous
+- It will rain tomorrow. (Vai chover amanhã.)
+- People will travel to Mars in the future. (As pessoas viajarão para Marte no futuro.)
 
-crie diálogos curtos para melhor exemplificar essa aula, pelo menos 6
+#### Ofertas e Promessas
 
-ChatGPT
+- I will help you with your homework. (Eu vou te ajudar com a lição de casa.)
+- I will always love you. (Eu sempre te amarei.)
 
-ChatGPT
+### 5. Exercícios Práticos
 
-Claro! Aqui estão seis diálogos curtos que exemplificam o uso do futuro simples com "will":
+#### Complete as frases com "will" e o verbo apropriado.
 
-------
+1. She ________ (visit) her grandmother next week.
+2. They ________ (not / go) to the concert.
+3. ________ (you / help) me with this project?
+4. He ________ (not / forget) your birthday.
+5. I ________ (call) you later.
 
-**Diálogo 1: Previsão do Tempo**
+#### Respostas
 
-**Anna:** Do you think it will rain tomorrow?
+1. She **will visit** her grandmother next week.
+2. They **will not (won't) go** to the concert.
+3. **Will you help** me with this project?
+4. He **will not (won't) forget** your birthday.
+5. I **will call** you later.
 
-**Ben:** Yes, I think it will rain in the afternoon.
+### Resumo
 
-**Anna:** I hope it won’t be too heavy.
+- Use "will" para formar o futuro simples em decisões espontâneas, previsões e promessas.
+- As frases afirmativas usam a estrutura: Sujeito + will + verbo (forma base).
+- As frases negativas usam a estrutura: Sujeito + will not (won't) + verbo (forma base).
+- As frases interrogativas usam a estrutura: Will + sujeito + verbo (forma base).
 
-**Ben:** We will see. Just take an umbrella!
+### Conclusão
 
-------
+Pratique os exercícios e revise os exemplos para consolidar seu entendimento do "Future Simple" com "will". Se tiver dúvidas, não hesite em perguntar!
 
-**Diálogo 2: Decisão Instantânea**
-
-**Emily:** I forgot my lunch at home.
-
-**Tom:** Don’t worry, I will share my lunch with you.
-
-**Emily:** Thanks, Tom! You are so kind.
-
-**Tom:** No problem. I will bring extra food tomorrow just in case.
-
-------
-
-**Diálogo 3: Promessa**
-
-**Lisa:** Will you help me with my project tonight?
-
-**Mark:** Sure, I will help you after dinner.
-
-**Lisa:** Thanks! I really appreciate it.
-
-**Mark:** You’re welcome. I will bring my laptop.
-
-------
-
-**Diálogo 4: Oferta de Ajuda**
-
-**Rachel:** This bag is so heavy!
-
-**James:** I will carry it for you.
-
-**Rachel:** Thank you, James. That’s very nice of you.
-
-**James:** No problem. I will take it to your car.
-
-------
-
-**Diálogo 5: Planos para o Futuro**
-
-**Sarah:** What will you do this weekend?
-
-**David:** I will visit my cousin. What about you?
-
-**Sarah:** I will go hiking with some friends.
-
-**David:** That sounds fun! I hope you will have a great time.
-
-------
-
-**Diálogo 6: Arranjos Futuros**
-
-**Mike:** When will you start your new job?
-
-**Laura:** I will start next Monday.
-
-**Mike:** That’s exciting! Will you move to a new city?
-
-**Laura:** Yes, I will move to New York. I’m looking forward to it.
-
-------
-
-Esses diálogos cobrem diferentes situações onde o futuro simples com "will" é utilizado, incluindo previsões, decisões instantâneas, promessas, ofertas de ajuda, planos para o futuro e arranjos futuros. Espero que sejam úteis para sua compreensão!
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
+Espero que tenha gostado da aula!

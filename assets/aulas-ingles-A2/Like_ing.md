@@ -1,130 +1,115 @@
+### Aula de Inglês - Nível A2: "Like + -ing"
 
+#### Objetivos da Aula:
 
-# English A2: Like + ing
+1. Compreender e usar a estrutura "like + -ing".
+2. Reconhecer e formar sentenças utilizando "like + -ing".
+3. Praticar a construção de frases positivas, negativas e interrogativas.
 
-May 18, 2024
+#### 1. Introdução
 
+A estrutura "like + -ing" é usada para falar sobre atividades ou ações que gostamos de fazer. O verbo "like" é seguido por um verbo com a terminação "-ing".
 
+#### 2. Estrutura
 
-Anonymous
+**Afirmações:**
 
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Like + ing , robusta e com exemplos;
+- Sujeito + like/likes + verbo-ing
 
-ChatGPT
+**Exemplos:**
 
-ChatGPT
+- I like swimming.
+- She likes reading books.
+- They like playing football.
 
-Claro, vou criar uma aula completa de inglês no nível A2 com o tema "Like + ing". Vamos começar com uma visão geral do que isso significa e depois vamos explorar alguns exemplos para ajudar a solidificar o conceito.
+**Negativas:**
 
-------
+- Sujeito + don't/doesn't like + verbo-ing
 
-**Aula de Inglês: Nível A2 - "Like + ing"**
+**Exemplos:**
 
-**Objetivo da Aula:** Nesta aula, vamos explorar o uso da estrutura "like + ing" em inglês. Você aprenderá como usar essa estrutura para expressar gostos, interesses e habilidades.
+- I don't like swimming.
+- He doesn't like reading books.
+- We don't like playing football.
 
-**1. Introdução:**
+**Perguntas:**
 
-- **Definição:** Em inglês, usamos a estrutura "like + ing" para falar sobre atividades que gostamos, interesses ou habilidades que temos.
-- **Exemplo:** "I like swimming" (Eu gosto de nadar).
+- Do/Does + sujeito + like + verbo-ing?
 
-**2. Usando "Like + ing" para Expressar Gostos:**
+**Exemplos:**
 
-- Exemplos:
-  - I like reading books. (Eu gosto de ler livros.)
-  - She likes playing soccer. (Ela gosta de jogar futebol.)
-  - They like watching movies. (Eles gostam de assistir filmes.)
+- Do you like swimming?
+- Does she like reading books?
+- Do they like playing football?
 
-**3. Usando "Like + ing" para Expressar Interesses:**
+#### 3. Exemplos Práticos
 
-- Exemplos:
-  - He likes listening to music. (Ele gosta de ouvir música.)
-  - We like hiking in the mountains. (Nós gostamos de fazer trilhas nas montanhas.)
-  - She likes painting landscapes. (Ela gosta de pintar paisagens.)
+**Afirmações:**
 
-**4. Usando "Like + ing" para Expressar Habilidades:**
+1. I like cooking Italian food.
+2. She likes painting in her free time.
+3. We like hiking in the mountains.
 
-- Exemplos:
-  - They like cooking Italian food. (Eles gostam de cozinhar comida italiana.)
-  - She likes speaking French. (Ela gosta de falar francês.)
-  - He likes playing the guitar. (Ele gosta de tocar guitarra.)
+**Negativas:**
 
-**5. Perguntas e Respostas:**
+1. I don't like cleaning the house.
+2. He doesn't like studying late at night.
+3. They don't like waking up early.
 
-- Pratique fazendo perguntas e respondendo usando "like + ing".
-- Exemplo:
-  - Q: What do you like doing in your free time? (O que você gosta de fazer no seu tempo livre?)
-  - A: I like playing video games. (Eu gosto de jogar videogame.)
+**Perguntas:**
 
-**6. Atividade Prática:**
+1. Do you like playing chess?
+2. Does he like going to the cinema?
+3. Do they like listening to music?
 
-- Peça aos alunos que formem pares e façam perguntas um ao outro sobre seus gostos, interesses e habilidades usando "like + ing". Eles devem praticar tanto fazendo perguntas quanto respondendo.
+#### 4. Exercícios
 
-**7. Conclusão:**
+**Complete as frases com a forma correta do verbo entre parênteses:**
 
-- Recapitule os pontos-chave da aula.
-- Encoraje os alunos a praticar o uso de "like + ing" em situações do dia a dia.
+1. I like _______ (read) novels.
+2. She likes _______ (watch) movies.
+3. We don't like _______ (do) homework.
+4. Does he like _______ (play) video games?
+5. They don't like _______ (go) to the gym.
 
-**8. Exercícios de Fixação (Opcional):**
+**Respostas:**
 
-- Disponibilize alguns exercícios para os alunos praticarem em casa, como completar frases com "like + ing" ou escrever sobre seus próprios gostos, interesses e habilidades.
+1. I like reading novels.
+2. She likes watching movies.
+3. We don't like doing homework.
+4. Does he like playing video games?
+5. They don't like going to the gym.
 
-------
+#### 5. Prática Oral
 
-Espero que esta aula seja útil para você! Se tiver alguma dúvida ou precisar de mais exemplos, estou aqui para ajudar.
+**Converse com um colega ou pratique sozinho respondendo as perguntas:**
 
+1. What do you like doing on weekends?
+2. Do you like traveling? Where do you like to go?
+3. What hobbies do you like to do in your free time?
 
+#### 6. Atividade de Escrita
 
-Anonymous
+**Escreva um parágrafo sobre suas atividades favoritas usando "like + -ing". Por exemplo:**
 
-crie diálogos curtos para melhor exemplificar essa aula, pelo menos 6
+"I like playing the guitar in my free time. I also like watching movies, especially comedies. On weekends, I like going to the park and spending time with my friends. I don't like waking up early, but I like having breakfast with my family."
 
-ChatGPT
+#### 7. Revisão
 
-ChatGPT
+Revise a estrutura "like + -ing" e pratique formando frases com diferentes verbos. Tente usar novas palavras e expandir seu vocabulário.
 
-Claro! Aqui estão seis diálogos curtos que exemplificam o uso de "like + ing":
+#### 8. Conclusão
 
-**Diálogo 1:**
+Entender e usar a estrutura "like + -ing" é fundamental para falar sobre seus gostos e preferências em inglês. Pratique sempre para ganhar fluência e confiança.
 
-- **Ana:** Hi, John. What do you like doing on weekends?
-- **John:** Hi, Ana. I like hiking in the mountains. What about you?
-- **Ana:** I like painting and drawing. It’s very relaxing.
+### Tarefa de Casa
 
-**Diálogo 2:**
+**1. Escreva cinco frases sobre coisas que você gosta e não gosta de fazer.**
 
-- **Carlos:** Do you like playing sports, Sarah?
-- **Sarah:** Yes, I do. I like playing tennis. How about you?
-- **Carlos:** I like playing soccer with my friends.
+**2. Pergunte a três amigos ou familiares sobre o que eles gostam de fazer e escreva suas respostas.**
 
-**Diálogo 3:**
+---
 
-- **Emily:** What does your sister like doing in her free time?
-- **David:** She likes reading novels. She reads a lot!
-- **Emily:** That’s nice. I like reading too.
+Se tiver dúvidas ou precisar de mais exemplos, estou aqui para ajudar!
 
-**Diálogo 4:**
-
-- **Teacher:** What do you like doing after school, Mark?
-- **Mark:** I like playing video games and watching TV. And you, Ms. Lee?
-- **Teacher:** I like gardening and cooking.
-
-**Diálogo 5:**
-
-- **Tom:** Hi, Maria. Do you like listening to music?
-- **Maria:** Hi, Tom. Yes, I like listening to pop music. Do you?
-- **Tom:** I like listening to rock music. It’s my favorite!
-
-**Diálogo 6:**
-
-- **Alice:** Do you like cooking, Paul?
-- **Paul:** Yes, I like cooking Italian food. Do you like cooking?
-- **Alice:** Yes, I do. I like baking cakes and cookies.
-
-------
-
-Esses diálogos ajudam a demonstrar como usar "like + ing" em conversas cotidianas sobre gostos e interesses.
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
 

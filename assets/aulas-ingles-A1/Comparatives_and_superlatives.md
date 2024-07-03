@@ -1,10 +1,6 @@
-
-
 # Comparativos e Superlativos: Aula
 
 May 18, 2024
-
-
 
 Anonymous
 
@@ -97,8 +93,6 @@ Exemplo:
 
 Espero que essa aula te ajude a entender e praticar comparativos e superlativos de forma mais eficaz! Se tiver mais alguma dúvida ou quiser praticar mais, estou aqui para ajudar.
 
-
-
 Anonymous
 
 crie diálogos 10 curtos para melhor exemplificar essa aula.
@@ -138,12 +132,3 @@ Esses diálogos mostram comparativos e superlativos em diferentes contextos, aju
 [Sign up to chat](https://chatgpt.com/)
 
 Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
-
-
-
-
-
-

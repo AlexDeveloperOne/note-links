@@ -1,152 +1,111 @@
+Claro! Vamos começar a nossa aula sobre o tema "Future going to". Este é um tópico importante no nível A2 e é utilizado para falar sobre planos e intenções para o futuro. Vamos explorar a estrutura, o uso e praticar com exemplos.
 
+### 1. Estrutura do "Future going to"
 
-# Future with Going To
+A forma básica do "going to" é:
 
-May 18, 2024
+**Sujeito + verbo to be (am/is/are) + going to + verbo principal (infinitivo).**
 
+- **Afirmativa:** 
+  
+  - I am going to visit my friend.
+  - She is going to study tonight.
+  - We are going to play soccer.
 
+- **Negativa:** 
+  
+  - I am not going to visit my friend.
+  - She is not going to study tonight.
+  - We are not going to play soccer.
 
-Anonymous
+- **Interrogativa:**
+  
+  - Am I going to visit my friend?
+  - Is she going to study tonight?
+  - Are we going to play soccer?
 
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Future: going to , robusta e com exemplos e aula voltada para alunos;
+### 2. Uso do "Future going to"
 
+Utilizamos "going to" para:
 
+1. **Planos e intenções futuros:**
+   
+   - I am going to travel to Spain next summer.
+   - They are going to move to a new house.
 
-Claro! Vamos criar uma aula completa de inglês no nível A2, focada no tema "Future: going to". Aqui está uma estrutura que você pode seguir para sua aula:
+2. **Predições baseadas em evidências atuais:**
+   
+   - Look at those clouds! It is going to rain.
+   - She is coughing a lot. She is going to be sick.
 
-------
+### 3. Exemplos
 
-**Título da Aula:**
+- **Afirmativas:**
+  
+  - I am going to start a new job next week.
+  - He is going to learn French.
+  - We are going to have a meeting tomorrow.
 
-Explorando o Futuro com "Going To"
+- **Negativas:**
+  
+  - I am not going to eat junk food anymore.
+  - She is not going to attend the party.
+  - They are not going to play video games tonight.
 
-**Objetivos da Aula:**
+- **Interrogativas:**
+  
+  - Are you going to visit your grandparents this weekend?
+  - Is he going to buy a new car?
+  - Are they going to watch the movie?
 
-- Compreender o uso do futuro com "going to".
-- Identificar situações e exemplos de uso.
-- Praticar a formação de sentenças afirmativas, negativas e interrogativas com "going to".
+### 4. Prática
 
-**1. Introdução:**
+Complete as frases abaixo usando a forma correta de "going to":
 
-- Apresentação do tema: O futuro com "going to" é uma das maneiras mais comuns de expressar planos e intenções futuras em inglês.
-- Importância de entender o uso do "going to" para comunicar-se de forma eficaz em situações cotidianas.
+1. She _______ (move) to a new apartment.
+2. They _______ (not, take) the bus to school.
+3. _______ you _______ (visit) your cousin next month?
+4. I _______ (not, watch) TV tonight.
+5. He _______ (buy) a gift for his mother.
 
-**2. Explicação:**
+### 5. Respostas
 
-- Definição: "Going to" é usado para expressar planos e intenções futuras que já estão decididos ou planejados.
-- Comparação com "will": Enquanto "will" é usado para decisões instantâneas ou previsões, "going to" é usado para planos e intenções previamente decididos.
-- Estrutura da sentença:
-  - Afirmativa: sujeito + "am/are/is" + "going to" + verbo principal + complemento.
-  - Negativa: sujeito + "am/are/is not" + "going to" + verbo principal + complemento.
-  - Interrogativa: "am/are/is" + sujeito + "going to" + verbo principal + complemento?
+1. She **is going to move** to a new apartment.
+2. They **are not going to take** the bus to school.
+3. **Are** you **going to visit** your cousin next month?
+4. I **am not going to watch** TV tonight.
+5. He **is going to buy** a gift for his mother.
 
-**3. Exemplos:**
+### 6. Exercícios adicionais
 
-- Afirmativa: "I am going to visit my grandmother tomorrow."
-- Negativa: "She isn't going to buy a new car next month."
-- Interrogativa: "Are you going to travel abroad next year?"
+**Transforme as frases em perguntas:**
 
-**4. Prática:**
+1. She is going to cook dinner.
+2. We are going to read that book.
+3. They are going to fix the car.
 
-- Atividade 1: Preencha as lacunas com a forma correta de "going to".
-  - Exemplo: "I ___ (go) to the gym later."
-    - Resposta: "I am going to go to the gym later."
-- Atividade 2: Transforme as seguintes frases de afirmativas para negativas e interrogativas.
-  - Exemplo: "She is going to study for the exam."
-    - Negativa: "She isn't going to study for the exam."
-    - Interrogativa: "Is she going to study for the exam?"
+**Transforme as frases em negativas:**
 
-**5. Aplicação Prática:**
+1. I am going to go to the gym.
+2. He is going to call his friend.
+3. You are going to finish the project.
 
-- Discussão em duplas: Os alunos discutem seus planos futuros usando "going to" e compartilham com a classe.
-- Role Play: Simule situações cotidianas onde "going to" é utilizado, como fazer planos de viagem, decidir sobre atividades de fim de semana, etc.
+### 7. Respostas dos exercícios adicionais
 
-**6. Recapitulação:**
+**Perguntas:**
 
-- Revisão dos principais pontos da aula.
-- Esclarecimento de dúvidas.
+1. Is she going to cook dinner?
+2. Are we going to read that book?
+3. Are they going to fix the car?
 
-**7. Tarefa de Casa:**
+**Negativas:**
 
-- Escrever um parágrafo sobre os próprios planos futuros usando "going to".
-- Praticar mais exercícios de transformação de frases afirmativas em negativas e interrogativas.
+1. I am not going to go to the gym.
+2. He is not going to call his friend.
+3. You are not going to finish the project.
 
-**8. Encerramento:**
+### 8. Conclusão
 
-- Encorajamento aos alunos para praticar o uso de "going to" no dia a dia.
-- Lembrar da importância de dominar esse aspecto da língua inglesa para a comunicação eficaz.
+Nesta aula, aprendemos sobre o "Future going to" e sua estrutura, usos, e praticamos com vários exemplos. É importante continuar praticando para dominar esse tópico. Se tiver alguma dúvida ou quiser mais exemplos, estou aqui para ajudar!
 
-------
-
-Espero que essa estrutura ajude na criação da sua aula! Se precisar de mais exemplos ou informações adicionais, estou aqui para ajudar.
-
-
-
-Anonymous
-
-crie diálogos 8 curtos para melhor exemplificar essa aula.
-
-ChatGPT
-
-ChatGPT
-
-Claro! Aqui estão oito diálogos curtos para exemplificar o uso do "going to" no futuro.
-
-------
-
-**Diálogo 1:**
-
-A: What are you going to do this weekend?
-B: I am going to visit my grandparents. What about you?
-A: I am going to watch a movie with my friends.
-
-**Diálogo 2:**
-
-A: Are you going to the gym tomorrow?
-B: Yes, I am. I am going to start a new workout routine.
-A: That sounds great! I am going to join you next week.
-
-**Diálogo 3:**
-
-A: Is she going to buy a new laptop?
-B: No, she isn’t. She is going to fix her old one instead.
-A: I see. It’s a good idea to save money.
-
-**Diálogo 4:**
-
-A: What are they going to eat for dinner?
-B: They are going to have pizza and salad.
-A: Yum! Pizza sounds delicious.
-
-**Diálogo 5:**
-
-A: Are we going to travel to Italy next summer?
-B: Yes, we are. We are going to visit Rome, Florence, and Venice.
-A: I can’t wait! It’s going to be an amazing trip.
-
-**Diálogo 6:**
-
-A: I heard John is going to move to a new city. Is that true?
-B: Yes, it is. He is going to start a new job there.
-A: I hope everything goes well for him.
-
-**Diálogo 7:**
-
-A: Are you going to attend the concert on Friday?
-B: No, I’m not. I’m going to stay home and relax.
-A: That sounds nice too. Sometimes you need a break.
-
-**Diálogo 8:**
-
-A: What are you going to wear to the party?
-B: I am going to wear my new blue dress.
-A: Nice choice! I am going to wear my red shirt.
-
-------
-
-Esses diálogos curtos ajudam a ilustrar diferentes formas de usar "going to" em contextos diversos, facilitando a compreensão e a prática dos alunos.
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
+Bom estudo!

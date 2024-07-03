@@ -1,156 +1,159 @@
+### Aula de Inglês A2: Prepositions of Time and Place
 
+**Objetivo da Aula:**
 
-# Prepositions A2 Lesson
+- Entender e usar corretamente as preposições de tempo e lugar.
+- Praticar com exemplos e exercícios.
 
-May 18, 2024
+---
 
+#### 1. Introdução às Preposições de Tempo
 
+Preposições de tempo ajudam a indicar quando algo acontece.
 
-Anonymous
+##### a. **At**
 
-Sou aluno e desejo que tu me crie uma aula completa de inglês nível A2 com o tema: Prepositions of time and place , robusta e com exemplos;
+- Usado para horas específicas.
+  - Ex: *I wake up at 7 o'clock.*
+- Usado para festividades.
+  - Ex: *We give gifts at Christmas.*
 
+##### b. **On**
 
+- Usado para dias e datas específicas.
+  - Ex: *She has a meeting on Monday.*
+  - Ex: *We celebrate on July 4th.*
 
-Claro! Vamos criar uma aula completa sobre preposições de tempo e lugar em inglês, nivel A2.
+##### c. **In**
 
-------
+- Usado para meses, anos, estações e períodos longos.
+  - Ex: *My birthday is in September.*
+  - Ex: *We go skiing in winter.*
 
-**Aula de Inglês: Prepositions of Time and Place**
+##### Exemplos:
 
-**Objetivos da Aula:**
+1. The concert starts **at** 8 pm.
+2. I was born **on** April 15th.
+3. She will visit her grandparents **in** the summer.
 
-- Compreender o uso correto das preposições de tempo e lugar em inglês.
-- Aplicar as preposições de forma adequada em contextos variados.
-- Familiarizar-se com exemplos práticos para solidificar o entendimento.
+#### 2. Introdução às Preposições de Lugar
 
-**1. Preposições de Lugar:**
+Preposições de lugar indicam onde algo está localizado.
 
-**a) In (em):**
+##### a. **At**
 
-- Usada para indicar que algo está dentro de uma área limitada.
-  - Exemplo: The cat is **in** the box. (O gato está **dentro** da caixa.)
+- Usado para locais específicos.
+  - Ex: *Meet me at the cinema.*
 
-**b) On (sobre):**
+##### b. **On**
 
-- Usada para indicar que algo está em cima de uma superfície.
-  - Exemplo: The book is **on** the table. (O livro está **sobre** a mesa.)
+- Usado para superfícies.
+  - Ex: *The book is on the table.*
+- Usado para meios de transporte público e alguns tipos de transporte pessoal.
+  - Ex: *She is on the bus.*
 
-**c) At (em, no):**
+##### c. **In**
 
-- Usada para indicar uma localização específica.
-  - Exemplo: She is waiting **at** the bus stop. (Ela está esperando **no** ponto de ônibus.)
+- Usado para espaços fechados.
+  - Ex: *He is in the room.*
+- Usado para cidades, países e continentes.
+  - Ex: *They live in Brazil.*
 
-**d) Under (debaixo):**
+##### Exemplos:
 
-- Usada para indicar que algo está abaixo de algo.
-  - Exemplo: The keys are **under** the mat. (As chaves estão **debaixo** do tapete.)
+1. She is waiting **at** the bus stop.
+2. The cat is sleeping **on** the couch.
+3. He is **in** the car.
 
-**e) Behind (atrás):**
+---
 
-- Usada para indicar que algo está na parte de trás de algo.
-  - Exemplo: The car is parked **behind** the house. (O carro está estacionado **atrás** da casa.)
+#### 3. Prática com Exemplos
 
-**2. Preposições de Tempo:**
+##### Complete as frases com "at", "on" ou "in":
 
-**a) At (em, às):**
+1. She goes to bed ___ midnight.
+2. We have a meeting ___ Friday.
+3. They live ___ New York.
+4. The flowers bloom ___ spring.
+5. He is waiting ___ the bus stop.
 
-- Usada para indicar momentos específicos.
-  - Exemplo: We'll meet **at** 7 o'clock. (Nós nos encontraremos **às** 7 horas.)
+---
 
-**b) In (em, durante):**
+##### Respostas:
 
-- Usada para indicar períodos de tempo mais longos.
-  - Exemplo: She likes to read books **in** the evening. (Ela gosta de ler livros **à** noite.)
+1. at
+2. on
+3. in
+4. in
+5. at
 
-**c) On (em, no, nos):**
+---
 
-- Usada para indicar dias específicos.
-  - Exemplo: We have a meeting **on** Monday. (Nós temos uma reunião **na** segunda-feira.)
+#### 4. Exercícios
 
-**d) For (por, durante):**
+##### a. Complete com a preposição correta de tempo:
 
-- Usada para indicar a duração de uma ação.
-  - Exemplo: They've been studying English **for** two hours. (Eles têm estudado inglês **por** duas horas.)
+1. The party is ___ 6 pm.
+2. My vacation starts ___ July.
+3. The meeting is ___ Monday morning.
+4. She was born ___ 1995.
+5. We always visit our family ___ Christmas.
 
-**e) Since (desde):**
+##### b. Complete com a preposição correta de lugar:
 
-- Usada para indicar o ponto inicial de uma ação que continua no presente.
-  - Exemplo: She has been living in London **since** 2010. (Ela mora em Londres **desde** 2010.)
+1. The keys are ___ the kitchen counter.
+2. She is sitting ___ the chair.
+3. The children are playing ___ the park.
+4. I left my phone ___ the car.
+5. He works ___ a bank.
 
-**Exercícios:**
+---
 
-1. Complete as frases com as preposições corretas:
+##### Respostas:
 
-   a) The cat is __________ the table. (on/in/under)
+1. at
 
-   b) We have class __________ Monday. (at/on/in)
+2. in
 
-   c) They've been waiting __________ 20 minutes. (for/since/in)
+3. on
 
-   d) She has lived here __________ three years. (for/since/in)
+4. in
 
-2. Escreva cinco frases sobre sua rotina diária usando preposições de tempo e lugar.
+5. at
 
-**Respostas:**
+6. on
 
-1. a) on, b) on, c) for, d) for
-2. Exemplos de frases sobre rotina diária:
-   - I wake up **at** 7 o'clock **in** the morning.
-   - I have breakfast **at** the kitchen table **in** my house.
-   - I go to work **at** 8:30 **on** weekdays.
-   - I usually have lunch **at** the cafeteria **in** my office.
-   - I relax by reading a book **in** bed **at** night.
+7. on
 
-**Conclusão:** Nesta aula, aprendemos sobre preposições de tempo e lugar em inglês e praticamos seu uso com exemplos e exercícios. Lembre-se de revisar regularmente para consolidar seu conhecimento e aplicá-lo em situações cotidianas.
+8. in
 
+9. in
 
+10. at
 
-Anonymous
+---
 
-crie diálogos 10 curtos para melhor exemplificar essa aula.
+#### 5. Prática Oral
 
-ChatGPT
+Trabalhe com um parceiro e faça perguntas e respostas usando preposições de tempo e lugar. Exemplos:
 
-ChatGPT
+- Where do you usually go **on** weekends?
+- What do you do **at** noon?
+- Where were you **in** 2010?
+- What do you have **on** your desk?
 
-Claro! Aqui estão 10 diálogos curtos que exemplificam o uso das preposições de tempo e lugar:
+---
 
-**Diálogo 1:** A: Where is the meeting? B: It's **at** the office **on** Monday.
+#### 6. Resumo
 
-**Diálogo 2:** A: When do you usually have dinner? B: I have dinner **at** 7 PM **in** the dining room.
+As preposições de tempo ("at", "on", "in") e de lugar ("at", "on", "in") são fundamentais para descrever quando e onde algo acontece. Pratique essas preposições através de exemplos, exercícios e conversas para melhorar sua fluência.
 
-**Diálogo 3:** A: Where do you live? B: I live **in** New York City.
+---
 
-**Diálogo 4:** A: What do you do **on** weekends? B: I go to the park **in** the morning and read **under** a tree.
+#### 7. Tarefa de Casa
 
-**Diálogo 5:** A: How long have you been studying English? B: I've been studying English **for** two years.
+Escreva um parágrafo sobre suas atividades diárias usando pelo menos cinco preposições de tempo e cinco preposições de lugar.
 
-**Diálogo 6:** A: When do you go to bed? B: I usually go to bed **at** 10 PM **on** weekdays.
+---
 
-**Diálogo 7:** A: Where is your car parked? B: It's **in** the garage **behind** the house.
-
-**Diálogo 8:** A: When does the bus arrive? B: The bus arrives **at** 8 o'clock **in** the morning.
-
-**Diálogo 9:** A: Where did you find your keys? B: They were **under** the couch **in** the living room.
-
-**Diálogo 10:** A: How long have you lived here? B: I've lived here **since** 2015.
-
-Esses diálogos curtos ajudam a reforçar o uso correto das preposições de tempo e lugar em contextos cotidianos.
-
-[Sign up to chat](https://chatgpt.com/)
-
-Report content|[Terms of use](https://openai.com/policies/terms-of-use)|[Privacy policy](https://openai.com/policies/privacy-policy)|
-
-
-
-
-
-
-
-
-
-
-
-
-
+Com esta aula, você deve ter uma compreensão clara de como usar preposições de tempo e lugar em inglês. Pratique regularmente para reforçar seu aprendizado.
