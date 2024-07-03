@@ -134,7 +134,7 @@ Os campos de entrada são criados com a tag `<input>`. Existem vários tipos de 
 6. **Arquivo**
 
    ```html
-   htmlCopiar código<label for="arquivo">Escolha um arquivo:</label>
+   <label for="arquivo">Escolha um arquivo:</label>
    <input type="file" id="arquivo" name="arquivo">
    ```
 
